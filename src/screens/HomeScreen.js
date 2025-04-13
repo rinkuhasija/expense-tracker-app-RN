@@ -123,7 +123,7 @@ export default function HomeScreen() {
           // source={require('../../assets/confetti.json')}
           autoPlay
           loop={false}
-          style={styles.lottie}
+          style={styles.lottie} 
         />
       )}
     </View>
